@@ -1,4 +1,4 @@
-# 1q-tag project
+# One Q Tag Project
 NFC Check-in Server System for COVID-19 Body Temperature Measurement and Information Records Management
 
 ![황재영 포트폴리오 2 014](https://user-images.githubusercontent.com/99489807/231975784-6e628006-1b4a-4ee4-9d41-28c27b986dd2.jpeg)
